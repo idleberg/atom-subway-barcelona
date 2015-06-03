@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Color scheme based on the Barcelona Metro subway map",
   "repository": "https://github.com/idleberg/atom-subway-barcelona",
-  "license": "CC0-1.0",
+  "license": "Public Domain Mark 1.0",
   "author": {
     "name": "Jan T. Sott",
     "url": "http://github.com/idleberg"
