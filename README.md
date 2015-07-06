@@ -14,8 +14,7 @@ Also [available](https://github.com/idleberg/Subway.tmTheme) for Sublime Text an
 
 ### apm
 
-* Make sure you have [Atom](https://atom.io/) (with apm) installed
-* Install theme `apm install subway-barcelona`
+* Install theme `apm install subway-barcelona` or use the GUI
 
 ### GitHub
 
