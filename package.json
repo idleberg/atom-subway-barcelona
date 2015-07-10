@@ -1,7 +1,7 @@
 {
   "name": "subway-barcelona",
   "theme": "syntax",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Color scheme based on the Barcelona Metro subway map",
   "repository": "https://github.com/idleberg/atom-subway-barcelona",
   "license": "Public Domain Mark 1.0",
