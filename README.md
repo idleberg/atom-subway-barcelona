@@ -1,8 +1,9 @@
 # Subway Barcelona for Atom
 
-[![Version](https://img.shields.io/apm/v/subway-barcelona.svg?style=flat-square)](https://atom.io/themes/subway-barcelona)
+[![apm](https://img.shields.io/apm/l/subway-barcelona.svg?style=flat-square)](https://atom.io/themes/subway-barcelona)
+[![apm](https://img.shields.io/apm/v/subway-barcelona.svg?style=flat-square)](https://atom.io/themes/subway-barcelona)
+[![apm](https://img.shields.io/apm/dm/subway-barcelona.svg?style=flat-square)](https://atom.io/themes/subway-barcelona)
 [![Travis branch](https://img.shields.io/travis/idleberg/atom-subway-barcelona/master.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-subway-barcelona)
-[![License](https://img.shields.io/apm/l/subway-barcelona.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
 Color scheme based on the Transport Barcelona subway map
 
