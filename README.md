@@ -20,7 +20,7 @@ Also [available](https://github.com/idleberg/Subway.tmTheme) for Sublime Text an
 ### GitHub
 
 1. Change directory to `~/.atom/packages/`
-2. Clone repository `git clone https://github.com/idleberg/atom-subway-barcelona.git`
+2. Clone repository `git clone https://github.com/idleberg/atom-subway-barcelona subway-barcelona`
 3. Enable theme from the *Atom/Preferences* menu
 
 ## License
