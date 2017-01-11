@@ -17,7 +17,7 @@ Also [available](https://github.com/idleberg/Subway.tmTheme) for Sublime Text an
 
 * Install theme `apm install subway-barcelona` (or use the GUI)
 
-### GitHub
+### Using Git
 
 1. Change directory `cd ~/.atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-subway-barcelona subway-barcelona`
